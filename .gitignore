@@ -1,0 +1,18 @@
+# venv
+.venv/
+# bytecode
+__pycache__/
+*.py[cod]
+# jupyter
+.ipynb_checkpoints/
+# OS cruft
+.DS_Store
+Thumbs.db
+# data & models (keep them local unless tiny)
+data/
+models/
+# environments
+.env
+*.env
+# caches
+.cache/
